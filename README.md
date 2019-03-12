@@ -1,7 +1,7 @@
 # REVERSED GENERATION
 
 ## Author
-- Wilfred 
+- Wilfred Gitau
 
 ## Description
 - This is a web site that advertises a group that is set out to help orphans and needy people in the society.
@@ -31,6 +31,6 @@ To view the page click on the link below
 - Make contributions to the code.
 
 ## License
-- This project is licensed under the MIT Open Source license Copyright (c) 2019. [Wilfred ](https://github.com/Wilfred98)
+- This project is licensed under the MIT Open Source license Copyright (c) 2019. [Wilfred Gitau ](https://github.com/Wilfred98)
 
 
