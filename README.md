@@ -31,6 +31,6 @@ To view the page click on the link below
 - Make contributions to the code.
 
 ## License
-- This project is licensed under the MIT Open Source license Copyright (c) 2019. [Wilfred Gitau ](https://github.com/Wilfred98)
+- This project is licensed under the MIT Open Source license Copyright (c) 2019. [Wilfred Njenga ](https://github.com/Wilfred98)
 
 
