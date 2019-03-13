@@ -1,7 +1,7 @@
 # REVERSED GENERATION
 
 ## Author
-- Wilfred Gitau
+- Wilfred Njenga
 
 ## Description
 - This is a web site that advertises a group that is set out to help orphans and needy people in the society.
